@@ -4,6 +4,8 @@ projects
 
 !.bash_profile
 !.hyper.js
-!hyper_plugins/*
+!.hyper_plugins/*
+!.hyper_plugins/local/hyper-atom-dark-transparent-sab/index.js
+!.hyper_plugins/node_modules/*
 !README.md
 !.gitignore
