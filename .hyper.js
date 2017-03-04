@@ -116,10 +116,12 @@ module.exports = {
   },
 
   hyperTabs: {
-    trafficButtons: false,
+    trafficButtons: true,
     border: true,
-    activityColor: 'salmon',
+    activityColor: 'green',
     activityPulse: true,
+    tabIcons: true,
+    tabIconsColored: true,
   },
 
   workingDirectory: '~/Projects'
