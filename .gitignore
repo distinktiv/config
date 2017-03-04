@@ -1,0 +1,9 @@
+*/*
+*.*
+projects
+
+!.bash_profile
+!.hyper.js
+!hyper_plugins/*
+!README.md
+!.gitignore
