@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     // default font size in pixels for all tabs
-    fontSize: 13,
+    fontSize: 12,
 
     // font family with optional fallbacks
     fontFamily: 'Hasklig, Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
@@ -101,7 +101,6 @@ module.exports = {
             'hypercwd',
             'hyperterm-tabs',
             'hyper-statusline',
-            'hyper-tabs-enhanced',
             'hyper-dark-scrollbar',
             'hyperterm-working-directory'],
 
