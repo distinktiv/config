@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hyper-atom-dark-transparent@latest",
+        "scope": null,
+        "escapedName": "hyper-atom-dark-transparent",
+        "name": "hyper-atom-dark-transparent",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/distinktiv/.hyper_plugins"
+    ]
+  ],
+  "_from": "hyper-atom-dark-transparent@latest",
+  "_id": "hyper-atom-dark-transparent@1.1.4",
+  "_inCache": true,
+  "_location": "/hyper-atom-dark-transparent",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/hyper-atom-dark-transparent-1.1.4.tgz_1476628085217_0.23647137614898384"
+  },
+  "_npmUser": {
+    "name": "simonmeusel",
+    "email": "simon.meusel.pc@t-online.de"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hyper-atom-dark-transparent@latest",
+    "scope": null,
+    "escapedName": "hyper-atom-dark-transparent",
+    "name": "hyper-atom-dark-transparent",
+    "rawSpec": "latest",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hyper-atom-dark-transparent/-/hyper-atom-dark-transparent-1.1.4.tgz",
+  "_shasum": "2914755f296774a3f8955d4734ec913a30ebcd4a",
+  "_shrinkwrap": null,
+  "_spec": "hyper-atom-dark-transparent@latest",
+  "_where": "/Users/distinktiv/.hyper_plugins",
+  "author": {
+    "name": "Simon Meusel"
+  },
+  "bugs": {
+    "url": "https://github.com/simonmeusel/hyperterm-atom-dark/issues"
+  },
+  "dependencies": {},
+  "description": "Hyper theme based on the hyperterm-atom-dark, but with transparency.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2914755f296774a3f8955d4734ec913a30ebcd4a",
+    "tarball": "https://registry.npmjs.org/hyper-atom-dark-transparent/-/hyper-atom-dark-transparent-1.1.4.tgz"
+  },
+  "gitHead": "524d4888554df920eb32e69c6dbdc0840e6930b3",
+  "homepage": "https://github.com/simonmeusel/hyperterm-atom-dark#readme",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "transparent",
+    "atom"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "simonmeusel",
+      "email": "simon.meusel.pc@t-online.de"
+    }
+  ],
+  "name": "hyper-atom-dark-transparent",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonmeusel/hyperterm-atom-dark.git"
+  },
+  "scripts": {},
+  "version": "1.1.4"
+}
